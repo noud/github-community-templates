@@ -1,21 +1,28 @@
 ### [Data](https://wikipedia.org/wiki/Data)
 
-* [CSV](https://wikipedia.org/wiki/Comma-separated_values), [IETF](https://ietf.org) -- [RFC 4180](https://tools.ietf.org/html/rfc4180)
+* [CSV](https://wikipedia.org/wiki/Comma-separated_values), [RFC 4180](https://tools.ietf.org/html/rfc4180) – [IETF](https://ietf.org)
 
-### [Markdown](https://daringfireball.net/projects/markdown) [Hypertext](https://wikipedia.org/wiki/Hypertext), [informal](https://daringfireball.net/projects/markdown/syntax)
+### [Entity–relationship model](https://wikipedia.org/wiki/Entity%E2%80%93relationship_model)
 
-* [GitHub Flavored Markdown (GFM)](https://github.github.com/gfm) (& [emoji](https://gist.github.com/rxaviers/7360908))
+- [er]()
 
-### Computer language](https://wikipedia.org/wiki/Computer_language)
+### [Hypertext](https://wikipedia.org/wiki/Hypertext)
+
+- [Markdown](https://daringfireball.net/projects/markdown), informal [DARING FIREBALL](https://daringfireball.net/projects/markdown/syntax)
+  * [GitHub Flavored Markdown (GFM)](https://github.github.com/gfm) (& [emoji](https://gist.github.com/rxaviers/7360908))
+
+### [Computer language](https://wikipedia.org/wiki/Computer_language)
+
+#### [Haskell](https://haskell.org) [Computer language](https://wikipedia.org/wiki/Computer_language)
 
 #### [JavaScript](https://wikipedia.org/wiki/JavaScript)
 
-* [Node.js](https://nodejs.org) [TypeScript](https://typescriptlang.org) [ECMA](http://ecma-international.org)[Script](https://ecma-international.org/ecma-262) [International Organization for Standardization (ISO)](https://iso.org)/[International Electrotechnical Commission (IEC)](https://iec.ch) -- [16262:2011](https://iso.org/standard/55755.html)
+* [Node.js](https://nodejs.org) [TypeScript](https://typescriptlang.org) [ECMA](http://ecma-international.org)[Script](https://ecma-international.org/ecma-262), [16262:2011](https://iso.org/standard/55755.html) – [International Organization for Standardization (ISO)](https://iso.org)/[International Electrotechnical Commission (IEC)](https://iec.ch)
   * [ESLint](https://eslint.org)
 
 #### [PHP](https://php.net)
 
-* frameworks
+* [Model–view–controller (MVC)](https://wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) framework
     * [Laravel](https://laravel.com)
         * The class namespace declaration must be on the same line as ```<?php```.
         * A class' opening ```{``` must be on the same line as the class name.
