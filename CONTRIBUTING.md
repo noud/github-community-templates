@@ -20,4 +20,5 @@ Always write a clear log message for your commits. One-line messages are fine fo
 
 Start reading the code and you'll get the hang of it. The code is optimized for readability.
 
-Thanks,Noud de Brouwer
+Thanks,
+Noud de Brouwer
