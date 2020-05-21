@@ -13,7 +13,7 @@
 
 ### [Computer language](https://wikipedia.org/wiki/Computer_language)
 
-#### [Haskell](https://haskell.org) [Computer language](https://wikipedia.org/wiki/Computer_language)
+#### [Haskell](https://haskell.org)
 
 #### [JavaScript](https://wikipedia.org/wiki/JavaScript)
 
