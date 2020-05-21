@@ -18,4 +18,6 @@ Always write a clear log message for your commits. One-line messages are fine fo
 
 ## [Coding conventions](https://github.com/noud/github-community-templates/blob/master/README-Coding-conventions.md)
 
-Noud de Brouwer
+Start reading the code and you'll get the hang of it. The code is optimized for readability.
+
+Thanks,Noud de Brouwer
