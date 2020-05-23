@@ -1,4 +1,28 @@
-### [Data](https://wikipedia.org/wiki/Data)
+# Coding
+
+* [Data](https://wikipedia.org/wiki/Data)
+  * [CSV]()
+  * [ER]()
+* [Hypertext](https://wikipedia.org/wiki/Hypertext)
+  * [Markdown]()
+  * [GFM]()
+* [Computer language](https://wikipedia.org/wiki/Computer_language)
+  * [Programming language](https://wikipedia.org/wiki/Programming_language)
+    * C C++
+    * [JavaScript](https://wikipedia.org/wiki/JavaScript)
+    * Java
+    * [Purely_functional_programming](https://en.wikipedia.org/wiki/Purely_functional_programming)
+      * [Haskell](https://haskell.org)
+  * [Scripting language](https://wikipedia.org/wiki/Scripting_language)
+    * [PHP: Hypertext Preprocessor (PHP)](https://php.net)
+    * [Unix_shell](https://wikipedia.org/wiki/Unix_shell)
+
+## Coding conventions
+
+* [JavaScript]()
+* [PHP: Hypertext Preprocessor (PHP)]()
+
+### Data
 
 * [CSV](https://wikipedia.org/wiki/Comma-separated_values), [RFC 4180](https://tools.ietf.org/html/rfc4180) – [IETF](https://ietf.org)
 
@@ -6,21 +30,19 @@
 
 - [er]()
 
-### [Hypertext](https://wikipedia.org/wiki/Hypertext)
+### Hypertext
 
 - [Markdown](https://daringfireball.net/projects/markdown), informal [DARING FIREBALL](https://daringfireball.net/projects/markdown/syntax)
   * [GitHub Flavored Markdown (GFM)](https://github.github.com/gfm) (& [emoji](https://gist.github.com/rxaviers/7360908))
 
-### [Computer language](https://wikipedia.org/wiki/Computer_language)
+### Computer language Coding conventions
 
-#### [Haskell](https://haskell.org)
-
-#### [JavaScript](https://wikipedia.org/wiki/JavaScript)
+#### JavaScript
 
 * [Node.js](https://nodejs.org) [TypeScript](https://typescriptlang.org) [ECMA](http://ecma-international.org)[Script](https://ecma-international.org/ecma-262), [16262:2011](https://iso.org/standard/55755.html) – [International Organization for Standardization (ISO)](https://iso.org) / [International Electrotechnical Commission (IEC)](https://iec.ch)
   * [ESLint](https://eslint.org)
 
-#### [PHP: Hypertext Preprocessor (PHP)](https://php.net)
+#### PHP
 
 * [Model–view–controller (MVC)](https://wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) framework
     * [Laravel](https://laravel.com)
