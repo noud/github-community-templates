@@ -33,7 +33,7 @@
 
   * [GitHub Flavored Markdown (GFM)](https://github.github.com/gfm) (& [emoji](https://gist.github.com/rxaviers/7360908))
 
-### Computer language Coding conventions
+### Computer language coding conventions
 
 #### JavaScript
 
