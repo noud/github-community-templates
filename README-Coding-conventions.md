@@ -7,9 +7,9 @@
   * [Markdown & GFM]()
 * [Computer language](https://wikipedia.org/wiki/Computer_language)
   * [Programming language](https://wikipedia.org/wiki/Programming_language)
-    * C C++
+    * [BASIC](https://wikipedia.org/wiki/BASIC)
+    * [C](https://wikipedia.org/wiki/C_(programming_language)) [C++](https://wikipedia.org/wiki/C%2B%2B)
     * [JavaScript](https://wikipedia.org/wiki/JavaScript)
-    * Java
     * [Purely functional programming](https://en.wikipedia.org/wiki/Purely_functional_programming)
       * [Haskell](https://haskell.org)
   * [Scripting language](https://wikipedia.org/wiki/Scripting_language)
