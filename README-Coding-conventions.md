@@ -18,12 +18,9 @@
 
 ## Coding conventions
 
+* [CSV](https://wikipedia.org/wiki/Comma-separated_values), [RFC 4180](https://tools.ietf.org/html/rfc4180) – [IETF](https://ietf.org)
 * [JavaScript]()
 * [PHP: Hypertext Preprocessor (PHP)]()
-
-### Data
-
-* [CSV](https://wikipedia.org/wiki/Comma-separated_values), [RFC 4180](https://tools.ietf.org/html/rfc4180) – [IETF](https://ietf.org)
 
 ### [Entity–relationship model](https://wikipedia.org/wiki/Entity%E2%80%93relationship_model)
 
