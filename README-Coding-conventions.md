@@ -4,18 +4,17 @@
   * [CSV]()
   * [ER]()
 * [Hypertext](https://wikipedia.org/wiki/Hypertext)
-  * [Markdown]()
-  * [GFM]()
+  * [Markdown & GFM]()
 * [Computer language](https://wikipedia.org/wiki/Computer_language)
   * [Programming language](https://wikipedia.org/wiki/Programming_language)
     * C C++
     * [JavaScript](https://wikipedia.org/wiki/JavaScript)
     * Java
-    * [Purely_functional_programming](https://en.wikipedia.org/wiki/Purely_functional_programming)
+    * [Purely functional programming](https://en.wikipedia.org/wiki/Purely_functional_programming)
       * [Haskell](https://haskell.org)
   * [Scripting language](https://wikipedia.org/wiki/Scripting_language)
     * [PHP: Hypertext Preprocessor (PHP)](https://php.net)
-    * [Unix_shell](https://wikipedia.org/wiki/Unix_shell)
+    * [Unix](https://wikipedia.org/wiki/Unix) [shell](https://wikipedia.org/wiki/Unix_shell)
 
 ## Coding conventions
 
@@ -30,9 +29,8 @@
 
 - [er]()
 
-### Hypertext
+### [Markdown](https://daringfireball.net/projects/markdown), informal [DARING FIREBALL](https://daringfireball.net/projects/markdown/syntax)
 
-- [Markdown](https://daringfireball.net/projects/markdown), informal [DARING FIREBALL](https://daringfireball.net/projects/markdown/syntax)
   * [GitHub Flavored Markdown (GFM)](https://github.github.com/gfm) (& [emoji](https://gist.github.com/rxaviers/7360908))
 
 ### Computer language Coding conventions
