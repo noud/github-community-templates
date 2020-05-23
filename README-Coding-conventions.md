@@ -20,7 +20,7 @@
 * [Node.js](https://nodejs.org) [TypeScript](https://typescriptlang.org) [ECMA](http://ecma-international.org)[Script](https://ecma-international.org/ecma-262), [16262:2011](https://iso.org/standard/55755.html) – [International Organization for Standardization (ISO)](https://iso.org)/[International Electrotechnical Commission (IEC)](https://iec.ch)
   * [ESLint](https://eslint.org)
 
-#### [PHP](https://php.net)
+#### [PHP: Hypertext Preprocessor (PHP)](https://php.net)
 
 * [Model–view–controller (MVC)](https://wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) framework
     * [Laravel](https://laravel.com)
