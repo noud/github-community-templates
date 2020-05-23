@@ -17,7 +17,7 @@
 
 #### [JavaScript](https://wikipedia.org/wiki/JavaScript)
 
-* [Node.js](https://nodejs.org) [TypeScript](https://typescriptlang.org) [ECMA](http://ecma-international.org)[Script](https://ecma-international.org/ecma-262), [16262:2011](https://iso.org/standard/55755.html) – [International Organization for Standardization (ISO)](https://iso.org)/[International Electrotechnical Commission (IEC)](https://iec.ch)
+* [Node.js](https://nodejs.org) [TypeScript](https://typescriptlang.org) [ECMA](http://ecma-international.org)[Script](https://ecma-international.org/ecma-262), [16262:2011](https://iso.org/standard/55755.html) – [International Organization for Standardization (ISO)](https://iso.org) / [International Electrotechnical Commission (IEC)](https://iec.ch)
   * [ESLint](https://eslint.org)
 
 #### [PHP: Hypertext Preprocessor (PHP)](https://php.net)
