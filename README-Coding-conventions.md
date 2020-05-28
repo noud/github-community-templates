@@ -1,30 +1,29 @@
 # Coding
 
-* [Data](https://wikipedia.org/wiki/Data)
-  * [CSV]()
-  * [ER]()
 * [Hypertext](https://wikipedia.org/wiki/Hypertext)
   * [Markdown & GFM]()
+* [Data](https://wikipedia.org/wiki/Data)
+  * [Comma-separated values (CSV)](https://wikipedia.org/wiki/Comma-separated_values)
+  * [JavaScript Object Notation (JSON)](https://wikipedia.org/wiki/JSON)
+  * [YAML Ain't Markup Language (YAML)](https://wikipedia.org/wiki/YAM)
+* [ER]()
 * [Computer language](https://wikipedia.org/wiki/Computer_language)
   * [Programming language](https://wikipedia.org/wiki/Programming_language)
-    * [BASIC](https://wikipedia.org/wiki/BASIC)
     * [C](https://wikipedia.org/wiki/C_(programming_language)) [C++](https://wikipedia.org/wiki/C%2B%2B)
     * [JavaScript](https://wikipedia.org/wiki/JavaScript)
-    * [Purely functional programming](https://en.wikipedia.org/wiki/Purely_functional_programming)
-      * [Haskell](https://haskell.org)
   * [Scripting language](https://wikipedia.org/wiki/Scripting_language)
     * [PHP: Hypertext Preprocessor (PHP)](https://php.net)
     * [Unix](https://wikipedia.org/wiki/Unix) [shell](https://wikipedia.org/wiki/Unix_shell)
 
 ## Coding conventions
 
-* [CSV](https://wikipedia.org/wiki/Comma-separated_values), [RFC 4180](https://tools.ietf.org/html/rfc4180) – [IETF](https://ietf.org)
+* CSV, [RFC 4180](https://tools.ietf.org/html/rfc4180) – [IETF](https://ietf.org)
 * [JavaScript]()
 * [PHP: Hypertext Preprocessor (PHP)]()
 
 ### [Entity–relationship model](https://wikipedia.org/wiki/Entity%E2%80%93relationship_model)
 
-- [er]()
+- [ER]()
 
 ### [Markdown](https://daringfireball.net/projects/markdown), informal [DARING FIREBALL](https://daringfireball.net/projects/markdown/syntax)
 
